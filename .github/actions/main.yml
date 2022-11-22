@@ -3,14 +3,14 @@ name: 🚀 Deploy website on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-focal
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.105.0'
         extended: true
     - name: Build
       run: hugo --minify
