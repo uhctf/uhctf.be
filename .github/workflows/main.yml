@@ -15,4 +15,4 @@ jobs:
     - name: Build
       run: hugo --minify
     - name: Deploy
-      run: apt-get -yqq install lftp && lftp -u "${{ secrets.FTP_USER }},${{ secrets.FTP_PASS }}" "$FTP_SERVER" -e "mirror -e -R -p public/ . ; quit"
+      run: sudo apt-get -yqq install lftp && lftp -u "${{ secrets.FTP_USER }},${{ secrets.FTP_PASS }}" "$FTP_SERVER" -e "mirror -e -R -p public/ . ; quit"
