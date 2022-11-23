@@ -15,6 +15,8 @@ Wanna know what to expect? Have a look at our previous editions.
 
 Thanks to Potvos Video for sponsoring the livestream: https://vimeo.com/548318827/bd9b153a90
 
+{{< vimeo 548318827 >}}
+
 # 2019 edition
 
 ![Overview of the room, tables of four people](/2019/UHCTF_01.webp)
