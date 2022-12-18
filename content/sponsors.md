@@ -2,13 +2,23 @@
 title = "Sponsors"
 +++
 
+# Prize Sponsors
+
+We want to thank these companies for sponsoring prizes for our contestants.
+
+- **Intigriti**: Europe’s #1 ethical hacking and bug bounty platform
+
+  Are you ready to test against the real world?
+
+  Join Europe's biggest community of security researchers. Get rewarded to help leading companies protect their assets. Earn rewards for every bug you track down and submit. Work whenever you want to, wherever you want to. Intigriti offers a wide variety of bug bounty platforms across a number of industries. Are you into web, car, IoT or network hacking? Intigriti connects you with companies that match your profile.
+
 # Hosting Partners
 
 We'd like to thank our hosting partners for providing us with resources for the event.
 
-- **Hasselt University**
+- **The Safe Group**: your guide to Security, IT, Event Tech and more
 
-  
+  The Safe Group has all the needs for the security of your company. Ranging from cameras and access controls to application security, application security and hosting.
 
 - **UHasselt Faculty of Sciences**
 
@@ -16,18 +26,4 @@ We'd like to thank our hosting partners for providing us with resources for the 
 
 - **Vakwerkgroep Informatica**
 
-<!-- TODO: determine if these will sponsor
-# Challenge Sponsors
-
-We'd like to thank the following companies for sponsoring some of the challenges:
-
-<!--- **DNS Belgium** for dnstris and dnslingo-->
-
-<!--*Want to sponsor a challenge? Contact us at inf-uhctf at uhasselt dot be*
-
-# Sponsors
-
-We'd like to thank our other sponsors as well for their support:
-
-*Your business here? Contact us at inf-uhctf at uhasselt dot be*
--->
+- **EDM Expertise Centre of Digital Media**
