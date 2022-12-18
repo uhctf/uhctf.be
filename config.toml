@@ -96,11 +96,11 @@
         identifier = "Tips"
         name = "Tips"
         url = "/tips"
-      [[languages.en.menu.main]]
-        weight = 600
-        identifier = "Scoreboard"
-        name = "Scoreboard"
-        url = "https://score.uhctf.be"
+      #[[languages.en.menu.main]]
+      #  weight = 600
+      #  identifier = "Scoreboard"
+      #  name = "Scoreboard"
+      #  url = "https://score.uhctf.be"
       [[languages.en.menu.main]]
         weight = 700
         identifier = "sponsor"
