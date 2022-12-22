@@ -3,6 +3,9 @@
 
     overflow-x: scroll;
     overflow-y: hidden;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
     height: 70px;
     padding: 10px 0px;
     margin: 20px 0px;
@@ -10,6 +13,9 @@
     position: relative;
     -webkit-overflow-scrolling: touch;
     background: white
+}
+.uhctf_sponsors::-webkit-scrollbar {
+  display: none;
 }
 
 .uhctf_sponsor {
