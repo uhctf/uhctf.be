@@ -31,3 +31,5 @@ We'd like to thank our hosting partners for providing us with resources for the 
 - **Vakwerkgroep Informatica**
 
 - **EDM Expertise Centre of Digital Media, member of Flanders Make**
+
+- **Filii Lambertii**
