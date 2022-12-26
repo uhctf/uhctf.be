@@ -8,6 +8,12 @@ Wanna know what to expect? Have a look at our previous editions.
 
 **[Challenges and writeups on GitHub](https://github.com/uhctf/uhctf2022)**
 
+![Students are solving challenges, prizes in the form of flags in front of them.](/2022/1.webp)
+![Student cooperating to solve a challenge.](/2022/2.webp)
+![A view of the entire venue. A Gandalf Epic Sax Guy remix is displayed on the projector.](/2022/3.webp)
+![Students give thumbs up for the event.](/2022/4.webp)
+![A bunch of network cables, deployed for the challenges.](/2022/5.webp)
+
 
 # 2021 (online) edition
 
