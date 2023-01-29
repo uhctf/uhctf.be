@@ -25,7 +25,7 @@ function shuffle(elems) {
 }
 
 // Shuffle sponsor lists
-const sponsor_carrousel = document.querySelectorAll('.uhctf_sponsors');
+const sponsor_carrousel = document.querySelectorAll('.uhctf_sponsors_slideshow');
 sponsor_carrousel.forEach(carrousel => {
     const carr_images = carrousel.querySelectorAll('.uhctf_sponsor');
     shuffle(carr_images);

@@ -12,7 +12,7 @@
     white-space: nowrap;
     position: relative;
     -webkit-overflow-scrolling: touch;
-    background: white
+    background: white;
 }
 .uhctf_sponsors::-webkit-scrollbar {
   display: none;
