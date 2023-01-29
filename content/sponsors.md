@@ -16,6 +16,10 @@ We want to thank these companies for sponsoring prizes for our contestants.
 
   Read more about the actual status of cyber resilience in Belgium at digitaldives.be
 
+- **Fox & Fish Cyberdefense**: Your security, our mission.
+
+  How well is your organisation protected against cybercriminals? At Fox&Fish, we offer businessess the security and peace of mind that they need. As official supplier for the Flemish government KMO wallet, you can get up to a 45% reduction on you cyber security.
+
 # Hosting Partners
 
 We'd like to thank our hosting partners for providing us with resources for the event.
