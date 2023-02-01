@@ -1,3 +1,6 @@
+- name: "Google Cloud"
+  logo: "googlecloud.svg"
+
 - name: UHasselt Wetenschappen
   logo: wetenschappen.png
 
