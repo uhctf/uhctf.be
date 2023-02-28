@@ -1,23 +1,64 @@
+# Explanation of the sponsors page
+# name: name of the company
+# logo: path to their logo in the static/sponsors folder
+# tier: hosting or prize: whether they help organise the event in some form.
+# tagline: a motto or something
+# description: some more explanation
+#
+
+- name: Guardsquare
+  logo: guardsquare.svg
+  tagline: Mobile app security that encrypts, obfuscates and self protects
+  description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
+  link: https://guardsquare.com
+
 - name: "Google Cloud"
   logo: "googlecloud.svg"
+  tagline: Built by developers, for developers
+  description: We want to thank Google Cloud Platform for sponsoring our infrastructure this year!
+  tier: hosting
+  link: https://goo.gle/ctfsponsorship
 
-- name: UHasselt Wetenschappen
+- name: UHasselt Faculty of Sciences (Wetenschappen)
   logo: wetenschappen.png
+  description: The Faculty of Sciences organises education, research and services within the disciplines of Biology, Chemistry, Physics, Computer Science, Statistics and Mathematics. It does so within the academic context and values of Hasselt University. Within this context, the faculty strives to educate students and researchers to become scientists of the future with a clear social responsibility.
 
-- name: Expertisecentrum Digitale Media
+- name: EDM Expertise Centre of Digital Media, member of Flanders Make
   logo: edm_flandersmake.png
+  type: hosting
+
+- name: Vakwerkgroep Informatica
+  type: hosting
 
 - name: The Safe Group
   logo: thesafegroup.png
+  tag: your guide to Security, IT, Event Tech and more
+  description: The Safe Group has all the needs for the security of your company. Ranging from cameras and access controls to application security, application security and hosting.
 
+# TODO: delete them
 - name: Intigriti
   logo: intigriti.svg
+  tier: prize
+  tag: Europe’s \#1 ethical hacking and bug bounty platform
+  description: |
+    Are you ready to test against the real world?
+
+    Join Europe's biggest community of security researchers. Get rewarded to help leading companies protect their assets. Earn rewards for every bug you track down and submit. Work whenever you want to, wherever you want to. Intigriti offers a wide variety of bug bounty platforms across a number of industries. Are you into web, car, IoT or network hacking? Intigriti connects you with companies that match your profile.
 
 - name: DNS Belgium
   logo: dnsbelgium.svg
+  tag: Registry for .be, .brussels and .vlaanderen
+  tier: prize
+  description: In a digitalised society where everybody is aware of the options of and has access to the benefits of domain names, DNS Belgium acts, in a sustainable way, as a centre of excellence regarding everything that’s related to domain names.
 
 - name: Filii Lambertii
   logo: filii.svg
+  link: https://filii.be
+  tier: hosting
 
 - name: Fox&Fish Cyberdefense
   logo: foxandfish.svg
+  tagline: Your security, our mission.
+  description: How well is your organisation protected against cybercriminals? At Fox&Fish, we offer businessess the security and peace of mind that they need. As official supplier for the Flemish KMO-portefeuille, you can get up to a 45% reduction on you cyber security.
+  tier: prize
+  link: https://foxandfish.be
