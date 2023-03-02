@@ -1,0 +1,19 @@
+<ul class="sponsorlist">
+    {{ range $.Site.Data.sponsors }}
+    {{ if eq .tier ($.Get "tier") }}
+    <li>
+        <article class="sponsorlist_block">
+            <h3>{{ .name }}</h3>
+            {{ with .logo }}
+            <img class="sponsorlist_block_logo" src="{{ . }}">
+            {{ end }}
+            <p>{{ .tag }}</p>
+            <p class="sponsorlist_block_description">{{ .description }}</p>
+            {{ with .link }}
+            <a href="{{ . }}" target=_blank>Website</a>
+            {{ end }}
+        </article>
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>

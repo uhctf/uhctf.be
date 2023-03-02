@@ -10,6 +10,7 @@
   logo: guardsquare.svg
   tagline: Mobile app security that encrypts, obfuscates and self protects
   description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
+  tier: prize
   link: https://guardsquare.com
 
 - name: "Google Cloud"
@@ -21,25 +22,33 @@
 
 - name: UHasselt Faculty of Sciences (Wetenschappen)
   logo: wetenschappen.png
+  tier: hosting
   description: The Faculty of Sciences organises education, research and services within the disciplines of Biology, Chemistry, Physics, Computer Science, Statistics and Mathematics. It does so within the academic context and values of Hasselt University. Within this context, the faculty strives to educate students and researchers to become scientists of the future with a clear social responsibility.
+  link: https://www.uhasselt.be/wetenschappen
 
-- name: EDM Expertise Centre of Digital Media, member of Flanders Make
+- name: EDM
   logo: edm_flandersmake.png
-  type: hosting
+  tier: hosting
+  tag: Expertise Centre of Digital Media, member of Flanders Make
+  description: As a computer science research centre, the Expertise Centre for Digital Media (EDM) conducts research in five areas. Our preference is to create added value precisely at the interfaces of these different IT domains - where our areas of expertise meet. This is because combining expertise means doubling impact.
+  link: https://www.uhasselt.be/en/edm
 
 - name: Vakwerkgroep Informatica
-  type: hosting
+  logo: informatica.png
+  tier: hosting
 
 - name: The Safe Group
   logo: thesafegroup.png
   tag: your guide to Security, IT, Event Tech and more
   description: The Safe Group has all the needs for the security of your company. Ranging from cameras and access controls to application security, application security and hosting.
+  tier: hosting
+  link: "https://thesafegroup.com"
 
-# TODO: delete them
+# TODO: delete them?
 - name: Intigriti
   logo: intigriti.svg
   tier: prize
-  tag: Europe’s \#1 ethical hacking and bug bounty platform
+  tag: "Europe’s #1 ethical hacking and bug bounty platform"
   description: |
     Are you ready to test against the real world?
 
@@ -50,11 +59,13 @@
   tag: Registry for .be, .brussels and .vlaanderen
   tier: prize
   description: In a digitalised society where everybody is aware of the options of and has access to the benefits of domain names, DNS Belgium acts, in a sustainable way, as a centre of excellence regarding everything that’s related to domain names.
+  link: "https://dnsbelgium.be"
 
 - name: Filii Lambertii
   logo: filii.svg
   link: https://filii.be
   tier: hosting
+  tag: "Toujours fidèle et sans souci"
 
 - name: Fox&Fish Cyberdefense
   logo: foxandfish.svg

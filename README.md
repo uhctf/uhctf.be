@@ -17,6 +17,6 @@ Commit to `main`, GitHub Actions should build the site and push it to the FTP se
 
 # Where's everything?
 
-- To add or change a sponsor, add the sponsor to the sponsors file in `data/sponsors.yml`, add the sponsor to the sponsors.md file in `content` and add a logo to the `static/sponsors` folder.
-- To change the site contents, change the file in `content`. You can simply copy-paste an md file to create a new page.
+- To add or change a sponsor, add the sponsor to the sponsors file in `data/sponsors.yml` and add a logo to the `static/sponsors` folder.
+- To change the site contents, change the file in `content`. You can simply copy-paste a markdown file to create a new page.
 - Links in the top menu are located in `config.toml`

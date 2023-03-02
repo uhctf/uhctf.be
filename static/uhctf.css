@@ -49,4 +49,17 @@
     padding-top: 0px;
 }
 /* Sponsor page styles */
-.sponsor_page_sponsor {}
+.sponsorlist_block h3 {
+    color: rgb(238, 114, 241)
+}
+
+img.sponsorlist_block_logo {
+    background-color: white;
+    max-width: 90%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    max-width: 70%;
+    max-height: 100px;
+}
