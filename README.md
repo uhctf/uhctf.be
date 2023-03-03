@@ -1,6 +1,6 @@
 # UHCTF website
 
-**live version: https://uhctf.be**
+**live version at: https://uhctf.be**
 
 # How to build locally
 
