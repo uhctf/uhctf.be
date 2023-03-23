@@ -6,6 +6,8 @@ title = "UHasselt Capture The Flag"
 
 <div style="text-align: center">Capture the flag</div>
 
+> Register here
+>
 > CTFd (platform): https://ctf.edm.uhasselt.be
 
 > Scoreboard: https://scoreboard.uhctf.be (available soon)

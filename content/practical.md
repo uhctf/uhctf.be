@@ -2,26 +2,24 @@
 title = "Practical"
 +++
 
-**WARNING!** *Still under development. Things will change.*
-
 # Who can participate?
 
-- Any (PhD) student, staff member or professor in Computer Science of Hasselt University
-- Any student in Industrial Engineering: Computer Science departments of Hasselt University
+- Any student, PhD Student, staff member or professor in Computer Science of Hasselt University
+- Any student in the Industrial Engineering: Computer Science department of Hasselt University
 
 # When? Where?
 
-*TBD*
+Fitlink @ UHasselt Campus Diepenbeek
+
+May 17th 2023, 12:00 - 20:00
+
+We will take care of catering. Drinks and dinner will be available.
+
+Thanks to our sponsor, this event is free for you to join.
 
 # Teams
 
 You participate in teams. Teams must have 3 or 4 members, but you can freely mix between years/fields of study. You will participate in the highest category of your team members.
-
-# Warmup challenges
-
-These challenges are easier examples of what you can expect during the CTF.
-
-*Coming soon*
 
 # What do you need?
 

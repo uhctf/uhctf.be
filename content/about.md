@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-A Capture The Flag (CTF) event is a hacking/cybersecurity competition, including a variety of fields, such as websec, reverse engineering, OSINT, lockpicking and many more.
+UHCTF is the CTF of Hasselt University (UHasselt). A Capture The Flag (CTF) event is a hacking/cybersecurity competition, including a variety of fields, such as websec, reverse engineering, OSINT, lockpicking and many more.
 
 The goal of every challenge is to find the "flag", which is an easily recognizable string of the form `uhctf{...}`.
 
