@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+
+<head>
+    {{ block "title" . }}
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
+    {{ end }}
+    {{ partial "head.html" . }}
+</head>
+
+<body class="{{- ( or .Params.color $.Site.Params.ThemeColor ) -}}">
+    {{ partial "sponsor_slides.html" . }}
+    <script src="/sponsors.js" async></script>
+</body>
+
+</html>
