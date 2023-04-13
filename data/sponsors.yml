@@ -5,6 +5,14 @@
 # tagline: a motto or something
 # description: some more explanation
 #
+- name: HackTheBox
+  logo: htb.svg
+  tier: prize
+  tag: "The #1 cybersecurity upskilling platform"
+  description: |
+    Hack The Box gives individuals, businesses and universities the tools they need to
+    continuously improve their cybersecurity capabilities — all in one place.
+  link: https://www.hackthebox.com
 
 - name: Guardsquare
   logo: guardsquare.svg
@@ -50,16 +58,6 @@
   description: The Safe Group has all the needs for the security of your company. Ranging from cameras and access controls to application security, application security and hosting.
   tier: hosting
   link: "https://thesafegroup.com"
-
-# TODO: delete them?
-- name: Intigriti
-  logo: intigriti.svg
-  tier: prize
-  tag: "Europe’s #1 ethical hacking and bug bounty platform"
-  description: |
-    Are you ready to test against the real world?
-
-    Join Europe's biggest community of security researchers. Get rewarded to help leading companies protect their assets. Earn rewards for every bug you track down and submit. Work whenever you want to, wherever you want to. Intigriti offers a wide variety of bug bounty platforms across a number of industries. Are you into web, car, IoT or network hacking? Intigriti connects you with companies that match your profile.
 
 - name: DNS Belgium
   logo: dnsbelgium.svg
