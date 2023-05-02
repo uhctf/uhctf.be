@@ -9,7 +9,7 @@ title = "Practical"
 
 # When? Where?
 
-Fitlink @ UHasselt Campus Diepenbeek
+Androme @ Wetenschapspark, UHasselt Campus Diepenbeek
 
 May 17th 2023, 12:00 - 20:00
 
