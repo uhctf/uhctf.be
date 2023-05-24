@@ -2,6 +2,8 @@
 title = "Practical"
 +++
 
+**2024 data is provisional**
+
 # Who can participate?
 
 - Any student, PhD Student, staff member or professor in Computer Science of Hasselt University
@@ -9,13 +11,11 @@ title = "Practical"
 
 # When? Where?
 
-Androme @ Wetenschapspark, UHasselt Campus Diepenbeek
+TBD
 
-May 17th 2023, 12:00 - 20:00
+We will take care of catering. Drinks and dinner will be provided.
 
-We will take care of catering. Drinks and dinner will be available.
-
-Thanks to our sponsor, this event is free for you to join.
+Thanks to our sponsors, this event is free for you to join.
 
 # Teams
 
