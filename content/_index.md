@@ -10,4 +10,4 @@ title = "UHasselt Capture The Flag"
 >
 > CTFd (platform): https://ctf.edm.uhasselt.be
 
-> Scoreboard: https://scoreboard.uhctf.be (available soon)
+> Scoreboard: https://scoreboard.uhctf.be
