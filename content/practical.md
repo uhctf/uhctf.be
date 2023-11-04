@@ -11,7 +11,7 @@ title = "Practical"
 
 # When? Where?
 
-8 May 2024
+8 May 2024, 12:00 - 20:00
 
 Agora @ Hasselt University
 
