@@ -11,7 +11,9 @@ title = "Practical"
 
 # When? Where?
 
-TBD
+8 May 2024
+
+Agora @ Hasselt University
 
 We will take care of catering. Drinks and dinner will be provided.
 
