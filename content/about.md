@@ -14,7 +14,7 @@ The CTF is organized by students and alumni of Hasselt University, with the inte
 
 For students yet undecided on which master profile(s) to choose, this is a great chance to get a taste of the Networking & Security profile. Have you ever considered a career in ethical hacking, incident response, or malware analysis? There is a big demand in all of these fields.
 
-The UHCTF is a stepping stone towards larger CTF's, like the [CSCBE](https://cybersecuritychallenge.be) and [Google CTF](https://capturetheflag.withgoogle.com), which help you meet some of the best employers in the industry, and which offer amazing prizes for the winners, like a trip to the US, or a helicopter flight with Belgian Defense.
+The UHCTF is a stepping stone towards larger CTF's, like the [Cyber Security Challenge Belgium](https://cybersecuritychallenge.be) and [Google CTF](https://capturetheflag.withgoogle.com), which help you meet some of the best employers in the industry, and which offer amazing prizes for the winners, like a trip to the US, or a helicopter flight with Belgian Defense.
 
 Each year, we have some prizes for the winning teams, and a goodie for everyone.
 
