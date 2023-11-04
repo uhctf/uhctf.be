@@ -7,7 +7,7 @@ title = "Practical"
 # Who can participate?
 
 - Any student, PhD Student, staff member or professor in Computer Science of Hasselt University
-- Any student in the Industrial Engineering: Computer Science department of Hasselt University
+- Any student in the Industrial Engineering: Computer Science and Electronics-IT department of Hasselt University
 
 # When? Where?
 
