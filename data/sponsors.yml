@@ -28,12 +28,12 @@
   tier: prize
   link: https://androme.be
 
-- name: "Google Cloud"
-  logo: "googlecloud.svg"
-  tagline: Built by developers, for developers
-  description: We want to thank Google Cloud Platform for sponsoring our infrastructure this year!
-  tier: hosting
-  link: https://goo.gle/ctfsponsorship
+# - name: "Google Cloud"
+#   logo: "googlecloud.svg"
+#   tagline: Built by developers, for developers
+#   description: We want to thank Google Cloud Platform for sponsoring our infrastructure this year!
+#   tier: hosting
+#   link: https://goo.gle/ctfsponsorship
 
 - name: UHasselt Faculty of Sciences (Wetenschappen)
   logo: wetenschappen.png
