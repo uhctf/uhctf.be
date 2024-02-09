@@ -5,14 +5,14 @@
 # tagline: a motto or something
 # description: some more explanation
 #
-- name: Hack The Box
-  logo: htb.svg
-  tier: prize
-  tag: "The #1 cybersecurity upskilling platform"
-  description: |
-    Hack The Box gives individuals, businesses and universities the tools they need to
-    continuously improve their cybersecurity capabilities — all in one place.
-  link: https://www.hackthebox.com
+# - name: Hack The Box
+#   logo: htb.svg
+#   tier: prize
+#   tag: "The #1 cybersecurity upskilling platform"
+#   description: |
+#     Hack The Box gives individuals, businesses and universities the tools they need to
+#     continuously improve their cybersecurity capabilities — all in one place.
+#   link: https://www.hackthebox.com
 
 - name: Guardsquare
   logo: guardsquare.svg
