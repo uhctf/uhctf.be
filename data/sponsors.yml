@@ -21,19 +21,19 @@
   tier: prize
   link: https://www.riskconcile.com/ 
 
-- name: Guardsquare
-  logo: guardsquare.svg
-  tagline: Mobile app security that encrypts, obfuscates and self protects
-  description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
-  tier: prize
-  link: https://guardsquare.com
+# - name: Guardsquare
+#   logo: guardsquare.svg
+#   tagline: Mobile app security that encrypts, obfuscates and self protects
+#   description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
+#   tier: prize
+#   link: https://guardsquare.com
 
-- name: Androme
-  logo: androme.png
-  tagline: Your software development partner
-  description: Our highly motivated team is ready to push its boundaries for you! As a center of excellence in ICT, ANDROME has become the preferred software partner for innovative and hi-tech solutions for both large multinationals and SMEs. Our customers all share the need for state of the art, sound and solid solutions which support them to grow their respective businesses.
-  tier: prize
-  link: https://androme.be
+# - name: Androme
+#   logo: androme.png
+#   tagline: Your software development partner
+#   description: Our highly motivated team is ready to push its boundaries for you! As a center of excellence in ICT, ANDROME has become the preferred software partner for innovative and hi-tech solutions for both large multinationals and SMEs. Our customers all share the need for state of the art, sound and solid solutions which support them to grow their respective businesses.
+#   tier: prize
+#   link: https://androme.be
 
 # - name: "Google Cloud"
 #   logo: "googlecloud.svg"
