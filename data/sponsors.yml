@@ -21,12 +21,12 @@
   tier: prize
   link: https://www.riskconcile.com/ 
 
-# - name: Guardsquare
-#   logo: guardsquare.svg
-#   tagline: Mobile app security that encrypts, obfuscates and self protects
-#   description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
-#   tier: prize
-#   link: https://guardsquare.com
+- name: Guardsquare
+  logo: guardsquare.svg
+  tagline: Mobile app security that encrypts, obfuscates and self protects
+  description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
+  tier: prize
+  link: https://guardsquare.com
 
 - name: Androme
   logo: androme.svg
