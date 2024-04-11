@@ -42,7 +42,7 @@ UEsDBBQAAAAIAEl4iViVBkJrPgAAAGIAAAAIAAAAZmxhZy5jc3YdjMERwCAMwxbSpwWcsg6l3X8E4nxy
 
 ### Main Course
 
-![main course](course.png)
+![main course](/course.png)
 
 ### Dessert
 
