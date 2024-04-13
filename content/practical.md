@@ -2,8 +2,6 @@
 title = "Practical"
 +++
 
-**2024 data is provisional**
-
 # Who can participate?
 
 - Any student, PhD Student, staff member or professor in Computer Science of Hasselt University
