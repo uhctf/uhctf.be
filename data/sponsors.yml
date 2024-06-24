@@ -71,7 +71,7 @@
   tag: Registry for .be, .brussels and .vlaanderen
   tier: prize
   description: In a digitalised society where everybody is aware of the options of and has access to the benefits of domain names, DNS Belgium acts, in a sustainable way, as a centre of excellence regarding everything that’s related to domain names.
-  link: "https://dnsbelgium.be"
+  link: "https://www.dnsbelgium.be"
 
 # They brought you the earplugs
 - name: Digital For Youth
@@ -79,7 +79,7 @@
   tag: Veilig en vlot toegang tot een laptop voor alle kinderen en jongeren in België.
   description: Digital for Youth wil de digitale kloof in België verkleinen voor kinderen en jongeren tussen 6 en 25 jaar. In samenwerking met andere sociale organisaties, streven we ernaar dat zij toegang tot ICT-materiaal hebben. We willen hun interesse in technologie en hun digitale vaardigheden aanscherpen.
   tier: prize
-  link: https://www.digitalforyouth.be/
+  link: https://digitalforyouth.be/
 
 - name: Filii Lamberti
   logo: filii.svg
