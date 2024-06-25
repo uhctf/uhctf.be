@@ -1,6 +1,6 @@
 <div class="uhctf_sponsors_banner">sponsor</div>
 <div class="uhctf_sponsors uhctf_sponsor_slideshow">
-    {{ range $.Site.Data.sponsors }}
+    {{ range (shuffle $.Site.Data.sponsors) }}
     <img class="uhctf_sponsor" src="/sponsors/{{ .logo }}">
     {{ end }}
 </div>
