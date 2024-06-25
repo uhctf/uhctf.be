@@ -1,5 +1,5 @@
 <ul class="sponsorlist">
-    {{ range $.Site.Data.sponsors }}
+    {{ range (shuffle $.Site.Data.sponsors) }}
     {{ if eq .tier ($.Get "tier") }}
     <li>
         <article class="sponsorlist_block">
