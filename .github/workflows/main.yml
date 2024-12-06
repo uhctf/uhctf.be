@@ -20,9 +20,10 @@ jobs:
     - name: Build
       run: hugo --minify
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.2
+      uses: sebastianpopp/ftp-action@releases/v2
       with:
-        local-dir: "public/"
+        localDir: "public/"
+        remoteDir: "uhctf-be"
         server: ${{ secrets.FTP_SRV }}
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASS }}
