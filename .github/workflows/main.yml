@@ -24,6 +24,6 @@ jobs:
       with:
         localDir: "public/"
         remoteDir: "uhctf-be"
-        server: ${{ secrets.FTP_SRV }}
-        username: ${{ secrets.FTP_USER }}
+        host: ${{ secrets.FTP_SRV }}
+        user: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASS }}
