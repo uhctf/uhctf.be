@@ -23,7 +23,7 @@ jobs:
       uses: sebastianpopp/ftp-action@releases/v2
       with:
         localDir: "public/"
-        remoteDir: "uhctf-be"
         host: ${{ secrets.FTP_SRV }}
         user: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASS }}
+        options: "--delete --asci"
