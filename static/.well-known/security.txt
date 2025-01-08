@@ -1,5 +1,0 @@
-Contact: mailto:iwantthatflag@uhctf.be
-Expires: 2024-05-31T21:59:00.000Z
-Encryption: https://uhctf.be/UHCTFSecurityTeam.asc
-Preferred-Languages: en
-Hiring: https://uhctf.be/join/
