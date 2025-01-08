@@ -14,19 +14,19 @@
 #     continuously improve their cybersecurity capabilities — all in one place.
 #   link: https://www.hackthebox.com
 
-- name: RiskConcile
-  logo: riskconcile.svg
-  tag: It’s time to ditch the spreadsheets.
-  description: Revolutionizing Data, Risk and Regulatory Technology Solutions for the Financial Industry.
-  tier: prize
-  link: https://www.riskconcile.com/ 
+# - name: RiskConcile
+#   logo: riskconcile.svg
+#   tag: It’s time to ditch the spreadsheets.
+#   description: Revolutionizing Data, Risk and Regulatory Technology Solutions for the Financial Industry.
+#   tier: prize
+#   link: https://www.riskconcile.com/ 
 
-- name: Guardsquare
-  logo: guardsquare.svg
-  tagline: Mobile app security that encrypts, obfuscates and self protects
-  description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
-  tier: prize
-  link: https://guardsquare.com
+# - name: Guardsquare
+#   logo: guardsquare.svg
+#   tagline: Mobile app security that encrypts, obfuscates and self protects
+#   description: Prevent reverse engineering and tampering with Guardsquare's multi-platform suite of mobile app security solutions
+#   tier: prize
+#   link: https://guardsquare.com
 
 - name: Androme
   logo: androme.svg
