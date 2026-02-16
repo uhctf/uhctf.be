@@ -48,12 +48,12 @@
   description: The Faculty of Sciences organises education, research and services within the disciplines of Biology, Chemistry, Physics, Computer Science, Statistics and Mathematics. It does so within the academic context and values of Hasselt University. Within this context, the faculty strives to educate students and researchers to become scientists of the future with a clear social responsibility.
   link: https://www.uhasselt.be/wetenschappen
 
-- name: EDM
-  logo: edm_flandersmake.png
+- name: Digital Future Lab
+  logo: digital_futurlab_con.jpg
   tier: hosting
-  tag: Expertise Centre of Digital Media, member of Flanders Make
-  description: As a computer science research centre, the Expertise Centre for Digital Media (EDM) conducts research in five areas. Our preference is to create added value precisely at the interfaces of these different IT domains - where our areas of expertise meet. This is because combining expertise means doubling impact.
-  link: https://www.uhasselt.be/en/edm
+  tag: Digital Future Lab, member of Flanders Make
+  description: The Future is Digital. The Vision is Human.
+  link: https://www.uhasselt.be/en/instituten-en/digitalfuturelab
 
 - name: Vakwerkgroep Informatica
   logo: informatica.png
