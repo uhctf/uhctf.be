@@ -6,7 +6,7 @@ title = "UHasselt Capture The Flag"
 
 <div style="text-align: center">Capture the flag</div>
 
-<div style="text-align: center"><b>13 May 2025</b></div>
+<div style="text-align: center"><b>13 May 2026</b></div>
 
 > Register here
 >

@@ -9,7 +9,7 @@ title = "Practical"
 
 # When? Where?
 
-13 May 2025, 12:00 - 20:00
+13 May 2026, 12:00 - 20:00
 
 Agora @ Hasselt University
 
