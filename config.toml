@@ -49,14 +49,6 @@
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
 [languages]
   [languages.en]
     languageName = "English"
@@ -116,7 +108,7 @@
 
 [module]
 [[module.imports]]
-  path = 'github.com/panr/hugo-theme-terminal'
+  path = 'github.com/panr/hugo-theme-terminal/v4'
 
 [markup]
   [markup.goldmark]
