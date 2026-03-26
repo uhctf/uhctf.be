@@ -53,6 +53,9 @@
     color: rgb(238, 114, 241)
 }
 
+img {
+    border: 0px;
+}
 img.sponsorlist_block_logo {
     background-color: white;
     max-width: 90%;
