@@ -1,6 +1,0 @@
-{{- $src := .Get "src" -}}
-{{- $alt := .Get "alt" | default "" -}}
-{{- $class := .Get "class" | default "" -}}
-{{- with $src -}}
-<img src="{{ $.Site.BaseURL }}{{ . }}" alt="{{ $alt }}" {{ with $class }} class="{{ . }}" {{ end }}>
-{{- end -}}
