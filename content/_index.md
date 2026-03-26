@@ -2,7 +2,7 @@
 title = "UHasselt Capture The Flag"
 +++
 
-![UHCTF logo with a glitch in the letters](/logo_dark.png)
+{{< imgrel src="/logo_dark.png" alt="UHCTF logo with a glitch in the letters" >}}
 
 <div style="text-align: center">Capture the flag</div>
 
