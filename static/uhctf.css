@@ -27,6 +27,7 @@
 
 
 .uhctf_sponsor_slideshow {
+    cursor: pointer;
     text-align: center;
     margin: 0px;
     color: #000 !important;
@@ -41,8 +42,24 @@
     display: none;
 }
 
+.uhctf_sponsors_wrap {
+    position: relative;
+}
+
+/* Label (and pause button) drawn inside the top of the sponsor box */
 .uhctf_sponsors_banner {
-    text-align: right;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2px 6px;
+    font-size: 0.75rem;
+    color: #000;
+    pointer-events: none;
 }
 
 .container {
@@ -50,7 +67,7 @@
 }
 /* Sponsor page styles */
 .sponsorlist_block h3 {
-    color: rgb(238, 114, 241)
+    color: var(--accent)
 }
 
 img {
@@ -65,4 +82,68 @@ img.sponsorlist_block_logo {
     margin: 0 auto;
     max-width: 70%;
     max-height: 100px;
+}
+
+/* Register box on the home page */
+.uhctf_register {
+    border: 2px solid var(--accent);
+    border-radius: 0;
+    padding: 15px 20px;
+    margin: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 20px;
+}
+.uhctf_register .button {
+    margin: 0;
+    border-radius: 0;
+}
+
+
+/* Logo variants per theme */
+.uhctf_logo_light { display: none; }
+:root[data-theme="light"] .uhctf_logo_dark { display: none; }
+:root[data-theme="light"] .uhctf_logo_light { display: inline; }
+
+/* Theme toggle (header): shows the active theme: a moon in the dark theme, a sun in the light theme */
+.uhctf_theme_toggle {
+    cursor: pointer;
+    color: var(--accent);
+    background: transparent;
+    border: 2px solid var(--accent);
+    border-radius: 0;
+    padding: 4px 6px;
+    margin-left: auto;
+    line-height: 0;
+}
+.uhctf_theme_toggle svg {
+    width: 1.4em;
+    height: 1.4em;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+.uhctf_theme_toggle .icon_sun { display: none; }
+:root[data-theme="light"] .uhctf_theme_toggle .icon_moon { display: none; }
+:root[data-theme="light"] .uhctf_theme_toggle .icon_sun { display: inline; }
+
+/* Visually hidden, still available to screen readers */
+.uhctf_sr_only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* Keep the mobile dropdown readable */
+.menu--mobile .menu__dropdown {
+    white-space: nowrap;
 }

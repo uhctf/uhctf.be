@@ -1,16 +1,17 @@
 <ul class="sponsorlist">
-    {{ range (shuffle $.Site.Data.sponsors) }}
-    {{ if eq .tier ($.Get "tier") }}
+    {{ range hugo.Data.sponsors }}
+    {{ if or (not ($.Get "tier")) (eq .tier ($.Get "tier")) }}
     <li>
+        {{ $name := .name }}
         <article class="sponsorlist_block">
             <h3>{{ .name }}</h3>
             {{ with .logo }}
-            <img class="sponsorlist_block_logo" src="{{ . }}">
+            <img class="sponsorlist_block_logo" src="{{ . }}" alt="Logo of {{ $name }}">
             {{ end }}
             <p>{{ .tag }}</p>
             <p class="sponsorlist_block_description">{{ .description }}</p>
             {{ with .link }}
-            <a href="{{ . }}" target=_blank>Website</a>
+            <a href="{{ . }}" target="_blank" rel="noopener">Website of {{ $name }}</a>
             {{ end }}
         </article>
     </li>

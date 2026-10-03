@@ -3,3 +3,11 @@
   --foreground: #eceae5;
   --accent: #ee82cf;
 }
+
+
+/* Light theme: dark is the default, the visitor can switch with the header toggle */
+:root[data-theme="light"] {
+  --background: #fbf8f3;
+  --foreground: #1a170f;
+  --accent: #b0287f;
+}

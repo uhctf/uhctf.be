@@ -1,4 +1,5 @@
 {{ define "main" }}
+<h1 class="uhctf_sr_only">{{ .Title }}</h1>
 {{ with .Content }}
 <div class="index-content">
     {{ . }}
@@ -8,9 +9,9 @@
 <div class="posts">
     {{ range .Paginator.Pages }}
     <article class="post on-list">
-        <h1 class="post-title">
+        <h2 class="post-title">
             <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-        </h1>
+        </h2>
 
         <div class="post-meta">
             {{ if .Date }}

@@ -28,6 +28,8 @@
 #   tier: prize
 #   link: https://guardsquare.com
 
+# Sponsors are shown in the order listed below (no shuffling).
+
 - name: Androme
   logo: androme.svg
   tagline: Comprehensive Software Solutions
@@ -41,6 +43,28 @@
 #   description: We want to thank Google Cloud Platform for sponsoring our infrastructure this year!
 #   tier: hosting
 #   link: https://goo.gle/ctfsponsorship
+
+- name: DNS Belgium
+  logo: wijzijndnsbelgium.svg
+  tag: Registry for .be, .brussels and .vlaanderen
+  tier: prize
+  description: In a digitalised society where everybody is aware of the options of and has access to the benefits of domain names, DNS Belgium acts, in a sustainable way, as a centre of excellence regarding everything that’s related to domain names.
+  link: "https://www.dnsbelgium.be"
+
+# They brought you the earplugs
+- name: Digital For Youth
+  logo: DFY_Logo.png
+  tag: Veilig en vlot toegang tot een laptop voor alle kinderen en jongeren in België.
+  description: Digital for Youth wil de digitale kloof in België verkleinen voor kinderen en jongeren tussen 6 en 25 jaar. In samenwerking met andere sociale organisaties, streven we ernaar dat zij toegang tot ICT-materiaal hebben. We willen hun interesse in technologie en hun digitale vaardigheden aanscherpen.
+  tier: prize
+  link: https://digitalforyouth.be/
+
+- name: Fox&Fish Cyberdefense
+  logo: foxandfish.svg
+  tagline: Your security, our mission.
+  description: How well is your organisation protected against cybercriminals? At Fox&Fish, we offer businessess the security and peace of mind that they need. As official supplier for the Flemish KMO-portefeuille, you can get up to a 45% reduction on you cyber security.
+  tier: prize
+  link: https://foxandfish.be
 
 - name: UHasselt Faculty of Sciences (Wetenschappen)
   logo: wetenschappen.png
@@ -66,30 +90,8 @@
   tier: hosting
   link: "https://thesafegroup.com"
 
-- name: DNS Belgium
-  logo: wijzijndnsbelgium.svg
-  tag: Registry for .be, .brussels and .vlaanderen
-  tier: prize
-  description: In a digitalised society where everybody is aware of the options of and has access to the benefits of domain names, DNS Belgium acts, in a sustainable way, as a centre of excellence regarding everything that’s related to domain names.
-  link: "https://www.dnsbelgium.be"
-
-# They brought you the earplugs
-- name: Digital For Youth
-  logo: DFY_Logo.png
-  tag: Veilig en vlot toegang tot een laptop voor alle kinderen en jongeren in België.
-  description: Digital for Youth wil de digitale kloof in België verkleinen voor kinderen en jongeren tussen 6 en 25 jaar. In samenwerking met andere sociale organisaties, streven we ernaar dat zij toegang tot ICT-materiaal hebben. We willen hun interesse in technologie en hun digitale vaardigheden aanscherpen.
-  tier: prize
-  link: https://digitalforyouth.be/
-
 - name: Filii Lamberti
   logo: filii.svg
   link: https://filii.be
   tier: hosting
   tag: "Toujours fidèle et sans souci"
-
-- name: Fox&Fish Cyberdefense
-  logo: foxandfish.svg
-  tagline: Your security, our mission.
-  description: How well is your organisation protected against cybercriminals? At Fox&Fish, we offer businessess the security and peace of mind that they need. As official supplier for the Flemish KMO-portefeuille, you can get up to a 45% reduction on you cyber security.
-  tier: prize
-  link: https://foxandfish.be

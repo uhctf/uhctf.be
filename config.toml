@@ -6,6 +6,10 @@ baseURL = 'https://uhctf.be/'
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
+  # used by the theme for <meta name="description"> and og:description on the home page
+  subtitle = "UHasselt Capture The Flag"
+  keywords = "UHCTF, CTF, capture the flag, cybersecurity, Hasselt University, UHasselt, hacking competition"
+
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "pink"
 
@@ -52,11 +56,10 @@ baseURL = 'https://uhctf.be/'
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "UHCTF"
     subtitle = "UHasselt Capture The Flag"
-    owner = ""
-    keywords = ""
+    owner = "UHCTF team"
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"
@@ -78,24 +81,19 @@ baseURL = 'https://uhctf.be/'
         url = "/about"
       [[languages.en.menu.main]]
         weight = 200
-        identifier = "Pratical"
+        identifier = "practical"
         name = "Practical"
         url = "/practical"
       [[languages.en.menu.main]]
         weight = 300
-        identifier = "Previous editions"
+        identifier = "previous"
         name = "Previous Editions"
         url = "/previous"
       [[languages.en.menu.main]]
         weight = 400
-        identifier = "Tips"
+        identifier = "tips"
         name = "Tips"
         url = "/tips"
-      #[[languages.en.menu.main]]
-      #  weight = 600
-      #  identifier = "Scoreboard"
-      #  name = "Scoreboard"
-      #  url = "https://score.uhctf.be"
       [[languages.en.menu.main]]
         weight = 700
         identifier = "sponsor"

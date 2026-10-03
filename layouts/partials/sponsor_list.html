@@ -1,6 +1,6 @@
 Our sponsors:
 <div class="uhctf_all_sponsors">
-    {{ range (shuffle $.Site.Data.sponsors) }}
+    {{ range hugo.Data.sponsors }}
         <p>{{ . }}</p>
         <img class="uhctf_sponsor" src="sponsors/{{ .logo }}">
     {{ end }}

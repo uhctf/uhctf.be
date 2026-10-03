@@ -1,6 +1,8 @@
+<div class="uhctf_sponsors_wrap">
 <div class="uhctf_sponsors_banner">sponsor</div>
 <div class="uhctf_sponsors uhctf_sponsor_slideshow">
-    {{ range (shuffle $.Site.Data.sponsors) }}
-    <img class="uhctf_sponsor" src="/sponsors/{{ .logo }}">
+    {{ range hugo.Data.sponsors }}
+    <img class="uhctf_sponsor" src="/sponsors/{{ .logo }}" alt="{{ .name }}">
     {{ end }}
+</div>
 </div>
