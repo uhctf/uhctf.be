@@ -100,6 +100,11 @@ baseURL = 'https://uhctf.be/'
         name = "Sponsors"
         url = "/sponsors"
       [[languages.en.menu.main]]
+        weight = 800
+        identifier = "junior"
+        name = "Junior"
+        url = "/junior"
+      [[languages.en.menu.main]]
         identifier = "contact"
         weight = 1000
         name = "Contact"
